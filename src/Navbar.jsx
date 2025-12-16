@@ -12,7 +12,7 @@ const Navbar = () => {
 
   return (
     <>
-      <header className="bg-primaryColor fixed left-0 top-0 w-full z-50 dark:bg-darkColor">
+      <header className="bg-primaryColor fixed left-0 top-0 w-screen z-50 dark:bg-darkColor">
         <nav className="container relative h-14 flex justify-between items-center dark:bg-darkColor">
           <div>
             <a href="#" className="text-2xl uppercase font-oswald">
